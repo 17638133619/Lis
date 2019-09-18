@@ -1,0 +1,2 @@
+webpackJsonp([9],{YRQc:function(t,e){},l8qK:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var i={mounted:function(){console.log("组件更新")}},r={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("h2",[this._v("我是B组件")]),this._v(" "),e("input",{attrs:{type:"text"}})])}]};var s=n("C7Lr")(i,r,!1,function(t){n("YRQc")},"data-v-e97874a4",null);e.default=s.exports}});
+//# sourceMappingURL=9.907879d1da530c491445.js.map
